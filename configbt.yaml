@@ -1,0 +1,14 @@
+env:
+    mocker: cta
+replayer:
+    basefiles:
+        commodity: /home/user/exam_project/Mywtpy_storage/common/stk_comms.json
+        contract: /home/user/exam_project/Mywtpy_storage/common/stocks.json
+        holiday: /home/user/exam_project/Mywtpy_storage/common/holidays.json
+        session: /home/user/exam_project/Mywtpy_storage/common/stk_sessions.json
+    etime: 201912011500
+    fees: /home/user/exam_project/Mywtpy_storage/common/fees_stk.json
+    mode: csv
+    path: /home/user/exam_project/Mywtpy_storage/storage/
+    stime: 201909010900
+
